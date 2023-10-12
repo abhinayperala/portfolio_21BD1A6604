@@ -1,0 +1,56 @@
+
+ #profile{
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem !important;
+    
+}
+.pad{
+    margin: 1rem !important;
+    
+}
+.navline {
+border: none;
+height: 20px;
+width: auto;
+height: 50px;
+margin-top: 0;
+border-bottom: 2px solid #1f1209;
+box-shadow: 0 20px 20px -20px #333;
+margin: -50px auto 10px; 
+}
+#navtext{
+    margin: 0.75rem;
+}
+table,tr,th,td{
+    border: 3px solid;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 2px;
+}
+.headings{
+    background-color:aquamarine;
+    height: 50px;
+}
+.bullets{
+    font-size: 150%;
+}
+.hover:hover{
+    text-decoration: none;
+    color: tomato;
+}
+.mail{
+    text-decoration: none;
+    color: black;
+}
+.mail:hover{
+    color: tomato !important;
+    
+}
+.insta:hover{
+    color: purple !important;
+}
+/* body { padding-top: 70px; } */
+
+ 
